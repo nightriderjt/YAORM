@@ -1,0 +1,9 @@
+F:\Projects\Stelios2\GitRepositories\DataInterface\bin\Release\DataInterface.dll
+F:\Projects\Stelios2\GitRepositories\DataInterface\bin\Release\DataInterface.pdb
+F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Release\DataInterface.csprojAssemblyReference.cache
+F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Release\DataInterface.csproj.CoreCompileInputs.cache
+F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Release\DataInterface.dll
+F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Release\DataInterface.pdb
+F:\Projects\Stelios2\GitRepositories\DataInterface\bin\Release\Newtonsoft.Json.dll
+F:\Projects\Stelios2\GitRepositories\DataInterface\bin\Release\Newtonsoft.Json.xml
+F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Release\DataInterface.csproj.CopyComplete

@@ -1,0 +1,10 @@
+F:\Projects\Stelios2\GitRepositories\DataInterface\bin\Debug\DataInterface.xml
+F:\Projects\Stelios2\GitRepositories\DataInterface\bin\Debug\DataInterface.dll
+F:\Projects\Stelios2\GitRepositories\DataInterface\bin\Debug\DataInterface.pdb
+F:\Projects\Stelios2\GitRepositories\DataInterface\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\Stelios2\GitRepositories\DataInterface\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Debug\DataInterface.csproj.CoreCompileInputs.cache
+F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Debug\DataInterface.csproj.CopyComplete
+F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Debug\DataInterface.dll
+F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Debug\DataInterface.pdb
+F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Debug\DataInterface.csprojAssemblyReference.cache

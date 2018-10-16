@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataInterface</name>
+    </assembly>
+    <members>
+        <member name="T:DataInterface.Attribbutes.EntityKey">
+            <summary>
+            Defines that a class property is the KEY 
+            </summary>
+            <seealso cref="T:System.Attribute" />     
+        </member>
+        <member name="M:DataInterface.Attribbutes.EntityKey.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.Attribbutes.EntityKey"/> class.
+            </summary>
+        </member>
+        <member name="T:DataInterface.Attribbutes.EntityView">
+            <summary>
+            
+            </summary>
+            <seealso cref="T:System.Attribute" />
+        </member>
+        <member name="M:DataInterface.Attribbutes.EntityView.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.Attribbutes.EntityView"/> class.
+            </summary>
+        </member>
+        <member name="T:DataInterface.Attribbutes.Field">
+            <summary>
+            Defines that a property will map to the specified field of the datasource during db operations
+            </summary>
+            <seealso cref="T:System.Attribute" />
+        </member>
+        <member name="M:DataInterface.Attribbutes.Field.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.Attribbutes.Field"/> class.
+            </summary>
+            <param name="name">The name.</param>
+            <exception cref="T:System.ArgumentNullException">name</exception>
+        </member>
+        <member name="T:DataInterface.Attribbutes.Table">
+            <summary>
+            Sets or gets the table name that maps the entity to the datasource
+            </summary>
+            <seealso cref="T:System.Attribute" />
+        </member>
+        <member name="M:DataInterface.Attribbutes.Table.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.Attribbutes.Table"/> class.
+            </summary>
+            <param name="name">The name.</param>
+            <exception cref="T:System.ArgumentNullException">name</exception>
+        </member>
+        <member name="M:DataInterface.Attribbutes.Table.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.Attribbutes.Table"/> class.
+            </summary>
+        </member>
+        <member name="P:DataInterface.Attribbutes.Table.Name">
+            <summary>
+            Gets or sets the name.
+            </summary>
+            <value>
+            The name.
+            </value>
+        </member>
+        <member name="T:DataInterface.Attribbutes.NotInsert">
+            <summary>
+            Specify that a property will not maped to a datasource field in an update,insert operation
+            </summary>
+            <seealso cref="T:System.Attribute" />    
+        </member>
+        <member name="M:DataInterface.Attribbutes.NotInsert.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.Attribbutes.NotInsert"/> class.
+            This attribute means that a proiperty will not map to a datasource for an update or insert operation
+            If you use it as a class attribute will mean that an Entity cannot be insert or update to a datasource
+            </summary>
+        </member>
+        <member name="T:DataInterface.Base">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataInterface.Base.Pager">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataInterface.Base.Pager.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.Base.Pager"/> class.
+            </summary>
+        </member>
+        <member name="P:DataInterface.Base.Pager.CurrentPage">
+            <summary>
+            Gets or sets the current page.
+            </summary>
+            <value>
+            The current page.
+            </value>
+        </member>
+        <member name="P:DataInterface.Base.Pager.TotalPages">
+            <summary>
+            Gets or sets the total pages.
+            </summary>
+            <value>
+            The total pages.
+            </value>
+        </member>
+        <member name="P:DataInterface.Base.Pager.PageRecords">
+            <summary>
+            Gets or sets the page records.
+            </summary>
+            <value>
+            The page records.
+            </value>
+        </member>
+        <member name="P:DataInterface.Base.Pager.TotalRecords">
+            <summary>
+            Gets or sets the total records.
+            </summary>
+            <value>
+            The total records.
+            </value>
+        </member>
+        <member name="T:DataInterface.Base.RequestFilters">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataInterface.Base.RequestFilters.Filters">
+            <summary>
+            Gets or sets the filters.
+            </summary>
+            <value>
+            The filters.
+            </value>
+        </member>
+        <member name="P:DataInterface.Base.RequestFilters.OrFilters">
+            <summary>
+            Gets or sets the or filters.
+            </summary>
+            <value>
+            The or filters.
+            </value>
+        </member>
+        <member name="M:DataInterface.Base.RequestFilters.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.Base.RequestFilters"/> class.
+            </summary>
+        </member>
+        <member name="M:DataInterface.Base.DataFilter.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.Base.DataFilter"/> class.
+            </summary>
+        </member>
+        <member name="P:DataInterface.Base.DataFilters.Filters">
+            <summary>
+            Gets or sets the filters.
+            </summary>
+            <value>
+            The filters.
+            </value>
+        </member>
+        <member name="M:DataInterface.Base.DataFilters.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.Base.DataFilters"/> class.
+            </summary>
+        </member>
+        <member name="T:DataInterface.Base.DataOrder">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataInterface.Base.DataOrder.Field">
+            <summary>
+            Gets or sets the field.
+            </summary>
+            <value>
+            The field.
+            </value>
+        </member>
+        <member name="P:DataInterface.Base.DataOrder.Order">
+            <summary>
+            Gets or sets the order.
+            </summary>
+            <value>
+            The order.
+            </value>
+        </member>
+        <member name="T:DataInterface.EntityCollection`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <seealso cref="T:System.Collections.Generic.IList`1" />
+        </member>
+        <member name="P:DataInterface.EntityCollection`1.Pager">
+            <summary>
+            Gets or sets the pager.
+            </summary>
+            <value>
+            The pager.
+            </value>
+        </member>
+        <member name="P:DataInterface.EntityCollection`1.Item(System.Int32)">
+            <summary>
+            Gets or sets the <see cref="!:T"/> at the specified index.
+            </summary>
+            <value>
+            The <see cref="!:T"/>.
+            </value>
+            <param name="index">The index.</param>
+            <returns></returns>
+        </member>
+        <member name="P:DataInterface.EntityCollection`1.Count">
+            <summary>
+            Gets the number of elements contained in the <see cref="T:System.Collections.Generic.ICollection`1" />.
+            </summary>
+        </member>
+        <member name="P:DataInterface.EntityCollection`1.IsReadOnly">
+            <summary>
+            Gets a value indicating whether the <see cref="T:System.Collections.Generic.ICollection`1" /> is read-only.
+            </summary>
+        </member>
+        <member name="M:DataInterface.EntityCollection`1.Add(`0)">
+            <summary>
+            Adds an item to the <see cref="T:System.Collections.Generic.ICollection`1" />.
+            </summary>
+            <param name="item">The object to add to the <see cref="T:System.Collections.Generic.ICollection`1" />.</param>
+        </member>
+        <member name="M:DataInterface.EntityCollection`1.Clear">
+            <summary>
+            Removes all items from the <see cref="T:System.Collections.Generic.ICollection`1" />.
+            </summary>
+        </member>
+        <member name="M:DataInterface.EntityCollection`1.Contains(`0)">
+            <summary>
+            Determines whether the <see cref="T:System.Collections.Generic.ICollection`1" /> contains a specific value.
+            </summary>
+            <param name="item">The object to locate in the <see cref="T:System.Collections.Generic.ICollection`1" />.</param>
+            <returns>
+            true if <paramref name="item" /> is found in the <see cref="T:System.Collections.Generic.ICollection`1" />; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:DataInterface.EntityCollection`1.CopyTo(`0[],System.Int32)">
+            <summary>
+            Copies the elements of the <see cref="T:System.Collections.Generic.ICollection`1" /> to an <see cref="T:System.Array" />, starting at a particular <see cref="T:System.Array" /> index.
+            </summary>
+            <param name="array">The one-dimensional <see cref="T:System.Array" /> that is the destination of the elements copied from <see cref="T:System.Collections.Generic.ICollection`1" />. The <see cref="T:System.Array" /> must have zero-based indexing.</param>
+            <param name="arrayIndex">The zero-based index in <paramref name="array" /> at which copying begins.</param>
+        </member>
+        <member name="M:DataInterface.EntityCollection`1.GetEnumerator">
+            <summary>
+            Returns an enumerator that iterates through the collection.
+            </summary>
+            <returns>
+            An enumerator that can be used to iterate through the collection.
+            </returns>
+        </member>
+        <member name="M:DataInterface.EntityCollection`1.IndexOf(`0)">
+            <summary>
+            Determines the index of a specific item in the <see cref="T:System.Collections.Generic.IList`1" />.
+            </summary>
+            <param name="item">The object to locate in the <see cref="T:System.Collections.Generic.IList`1" />.</param>
+            <returns>
+            The index of <paramref name="item" /> if found in the list; otherwise, -1.
+            </returns>
+        </member>
+        <member name="M:DataInterface.EntityCollection`1.Insert(System.Int32,`0)">
+            <summary>
+            Inserts an item to the <see cref="T:System.Collections.Generic.IList`1" /> at the specified index.
+            </summary>
+            <param name="index">The zero-based index at which <paramref name="item" /> should be inserted.</param>
+            <param name="item">The object to insert into the <see cref="T:System.Collections.Generic.IList`1" />.</param>
+        </member>
+        <member name="M:DataInterface.EntityCollection`1.Remove(`0)">
+            <summary>
+            Removes the first occurrence of a specific object from the <see cref="T:System.Collections.Generic.ICollection`1" />.
+            </summary>
+            <param name="item">The object to remove from the <see cref="T:System.Collections.Generic.ICollection`1" />.</param>
+            <returns>
+            true if <paramref name="item" /> was successfully removed from the <see cref="T:System.Collections.Generic.ICollection`1" />; otherwise, false. This method also returns false if <paramref name="item" /> is not found in the original <see cref="T:System.Collections.Generic.ICollection`1" />.
+            </returns>
+        </member>
+        <member name="M:DataInterface.EntityCollection`1.RemoveAt(System.Int32)">
+            <summary>
+            Removes the <see cref="T:System.Collections.Generic.IList`1" /> item at the specified index.
+            </summary>
+            <param name="index">The zero-based index of the item to remove.</param>
+        </member>
+        <member name="T:DataInterface.IDataEntity">
+            <summary>
+            Defines an entity , that's it a RECORD 
+            </summary>
+        </member>
+        <member name="T:DataInterface.IDataEntityWithEvents">
+            <summary>
+            Defines events for an Entity
+            </summary>
+        </member>
+        <member name="E:DataInterface.IDataEntityWithEvents.BeforeInsert">
+            <summary>
+            Occurs when [before insert].
+            </summary>
+        </member>
+        <member name="E:DataInterface.IDataEntityWithEvents.InsertRecord">
+            <summary>
+            Occurs when [record added].
+            </summary>
+        </member>
+        <member name="E:DataInterface.IDataEntityWithEvents.InsertRecordFailed">
+            <summary>
+            Occurs when [record add failed].
+            </summary>
+        </member>
+        <member name="E:DataInterface.IDataEntityWithEvents.UpdateRecord">
+            <summary>
+            Occurs when [update record].
+            </summary>
+        </member>
+        <member name="E:DataInterface.IDataEntityWithEvents.UpdaterecordFailed">
+            <summary>
+            Occurs when [updaterecord failed].
+            </summary>
+        </member>
+        <member name="T:DataInterface.IDataOperator">
+            <summary>
+            Permorms Actions against a datasource
+            </summary>
+        </member>
+        <member name="P:DataInterface.IDataOperator.Source">
+             <summary>
+            Gets or sets the context source.It can be a connection string, a filepath,a url
+             </summary>
+             <value>
+             The source.
+             </value>
+        </member>
+        <member name="T:DataInterface.IDataReadOnlyOperator">
+            <summary>
+             Defines basic Read operations on a datasource
+            </summary>
+        </member>
+        <member name="M:DataInterface.IDataReadOnlyOperator.GetRecords``1(DataInterface.Base.RequestFilters,DataInterface.Base.DataOrder,System.Int32,System.Int32)">
+            <summary>
+            Gets the records.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="filters">The filters.</param>
+            <param name="Order">The order.</param>
+            <param name="PageSize">Size of the page.</param>
+            <param name="Page">The page.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataInterface.IDataReadOnlyOperator.GetByEntityKey``1(System.String,System.String)">
+            <summary>
+            Gets a collection of entitiews by Entity Key value.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="Key">The key.</param>
+            <param name="ValueOfKey">The value of key.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataInterface.IDataReadOnlyOperator.GetByEntityKey_Async``1(System.String,System.String)">
+            <summary>
+            Gets a collection of entitiews by Entity Key value.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="Key">The key.</param>
+            <param name="ValueOfKey">The value of key.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataInterface.IDataReadOnlyOperator.GetRecords_Async``1(DataInterface.Base.RequestFilters,DataInterface.Base.DataOrder,System.Int32,System.Int32)">
+            <summary>
+            Gets the records asynchronous.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="filters">The filters.</param>
+            <param name="Order">The order.</param>
+            <param name="PageSize"></param>
+            <param name="Page"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DataInterface.IDataWriterOperator">
+            <summary>
+            Performs Write operation on the datasource
+            </summary>
+            <seealso cref="T:DataInterface.IDataOperator" />
+        </member>
+        <member name="M:DataInterface.IDataWriterOperator.AddRecord(DataInterface.IDataEntity)">
+            <summary>
+            Adds the record to the datasource
+            </summary>
+            <param name="Record">The record.</param>
+            <returns>True or False</returns>
+        </member>
+        <member name="M:DataInterface.IDataWriterOperator.AddRecord_Async(DataInterface.IDataEntity)">
+            <summary>
+            Adds the record asynchronous.
+            </summary>
+            <param name="record">The record.</param>
+            <returns>True or false</returns>
+        </member>
+        <member name="M:DataInterface.IDataWriterOperator.UpdateRecordAsync(DataInterface.IDataEntity)">
+            <summary>
+            Updates the record asynchronous.
+            </summary>
+            <param name="record">The record.</param>
+            <returns></returns>
+        </member>
+        <member name="E:DataInterface.IDataWriterOperator.RecordInserted">
+            <summary>
+            Occurs when [record inserted].
+            </summary>
+        </member>
+        <member name="E:DataInterface.IDataWriterOperator.RecordInsertFailed">
+            <summary>
+            Occurs when [record insert failed].
+            </summary>
+        </member>
+        <member name="E:DataInterface.IDataWriterOperator.BeforeInsert">
+            <summary>
+            Occurs when [before insert].
+            </summary>
+        </member>
+        <member name="T:DataInterface.OperatorEventArguments">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataInterface.OperatorEventArguments.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.OperatorEventArguments"/> class.
+            </summary>
+        </member>
+        <member name="M:DataInterface.OperatorEventArguments.#ctor(System.Object)">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataInterface.OperatorEventArguments"/> class.
+            </summary>
+            <param name="data">The data.</param>
+            <exception cref="T:System.ArgumentNullException">data</exception>
+        </member>
+        <member name="P:DataInterface.OperatorEventArguments.Data">
+            <summary>
+            Gets or sets the data.
+            </summary>
+            <value>
+            The data.
+            </value>
+        </member>
+    </members>
+</doc>
