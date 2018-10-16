@@ -8,3 +8,12 @@ F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Debug\DataInterface.cspro
 F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Debug\DataInterface.dll
 F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Debug\DataInterface.pdb
 F:\Projects\Stelios2\GitRepositories\DataInterface\obj\Debug\DataInterface.csprojAssemblyReference.cache
+G:\Archive\Programmata\GitHub\YAORM\DataInterface\bin\Debug\DataInterface.xml
+G:\Archive\Programmata\GitHub\YAORM\DataInterface\bin\Debug\DataInterface.dll
+G:\Archive\Programmata\GitHub\YAORM\DataInterface\bin\Debug\DataInterface.pdb
+G:\Archive\Programmata\GitHub\YAORM\DataInterface\bin\Debug\Newtonsoft.Json.dll
+G:\Archive\Programmata\GitHub\YAORM\DataInterface\bin\Debug\Newtonsoft.Json.xml
+G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.csproj.CoreCompileInputs.cache
+G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.csproj.CopyComplete
+G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.dll
+G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.pdb

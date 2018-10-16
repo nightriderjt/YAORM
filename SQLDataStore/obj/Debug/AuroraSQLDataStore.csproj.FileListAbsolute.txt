@@ -111,3 +111,7 @@ F:\Projects\Stelios2\GitRepositories\SQLDataStore\obj\Debug\AuroraSQLDataStore.c
 F:\Projects\Stelios2\GitRepositories\SQLDataStore\obj\Debug\AuroraSQLDataStore.csproj.CopyComplete
 F:\Projects\Stelios2\GitRepositories\SQLDataStore\obj\Debug\SQLDataStore.dll
 F:\Projects\Stelios2\GitRepositories\SQLDataStore\obj\Debug\SQLDataStore.pdb
+G:\Archive\Programmata\GitHub\YAORM\SQLDataStore\obj\Debug\AuroraSQLDataStore.csprojAssemblyReference.cache
+G:\Archive\Programmata\GitHub\YAORM\SQLDataStore\obj\Debug\AuroraSQLDataStore.csproj.CoreCompileInputs.cache
+G:\Archive\Programmata\GitHub\YAORM\SQLDataStore\obj\Debug\SQLDataStore.dll
+G:\Archive\Programmata\GitHub\YAORM\SQLDataStore\obj\Debug\SQLDataStore.pdb
