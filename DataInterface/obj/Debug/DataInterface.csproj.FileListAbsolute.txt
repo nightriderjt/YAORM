@@ -17,3 +17,4 @@ G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.csproj
 G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.csproj.CopyComplete
 G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.dll
 G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.pdb
+G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.csprojAssemblyReference.cache
