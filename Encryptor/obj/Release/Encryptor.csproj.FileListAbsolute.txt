@@ -1,0 +1,6 @@
+F:\Projects\Stelios2\GitRepositories\Encryptor\bin\Release\Encryptor.dll
+F:\Projects\Stelios2\GitRepositories\Encryptor\bin\Release\Encryptor.pdb
+F:\Projects\Stelios2\GitRepositories\Encryptor\obj\Release\Encryptor.csproj.CoreCompileInputs.cache
+F:\Projects\Stelios2\GitRepositories\Encryptor\obj\Release\Encryptor.dll
+F:\Projects\Stelios2\GitRepositories\Encryptor\obj\Release\Encryptor.pdb
+F:\Projects\Stelios2\GitRepositories\Encryptor\obj\Release\Encryptor.csprojAssemblyReference.cache
