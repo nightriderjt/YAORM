@@ -1,0 +1,17 @@
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\SQLDataStore.xml
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\SQLDataStore.dll
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\SQLDataStore.pdb
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\DataInterface.dll
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\Encryptor.dll
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\Newtonsoft.Json.dll
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\DataInterface.pdb
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\DataInterface.xml
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\Encryptor.pdb
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\bin\Debug\Newtonsoft.Json.xml
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\obj\Debug\SQLDataStore.csprojAssemblyReference.cache
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\obj\Debug\SQLDataStore.csproj.CoreCompileInputs.cache
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\obj\Debug\SQLDataStore.csproj.CopyComplete
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\obj\Debug\SQLDataStore.dll
+J:\Archive\Programmata\GitHub\YAORM\SQLDataStore\obj\Debug\SQLDataStore.pdb

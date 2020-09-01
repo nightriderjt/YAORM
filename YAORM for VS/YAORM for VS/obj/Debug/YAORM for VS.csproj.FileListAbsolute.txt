@@ -1,0 +1,94 @@
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\YAORM for VS.csprojAssemblyReference.cache
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\VSPackage.resources
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\YAORM for VS.csproj.GenerateResource.cache
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\YAORM for VS.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\YAORM for VS.pkgdef
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\YAORM for VS.vsix
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\extension.vsixmanifest
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\EnvDTE.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\EnvDTE100.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\EnvDTE80.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\EnvDTE90.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Threading.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Validation.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\stdole.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\EnvDTE90a.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.MSXML.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Threading.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Validation.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\SettingsPackage.cto
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\VSCT.read.1.tlog
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\VSCT.write.1.tlog
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\resources.json
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\ctoFiles.json
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\VSPackage.resources.original
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\mergeCto.cache
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\YAORM for VS.csproj.CoreCompileInputs.cache
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\YAORM for VS.csproj.CopyComplete
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\YAORM for VS.dll
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\YAORM for VS.pdb
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\YAORM for VS.pkgdef
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\YAORM for VS.latest.pkgdef
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\extension.vsixmanifest
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\files.json
+G:\Archive\Programmata\GitHub\YAORM\YAORM for VS\YAORM for VS\obj\Debug\createTemplateManifests.cache
