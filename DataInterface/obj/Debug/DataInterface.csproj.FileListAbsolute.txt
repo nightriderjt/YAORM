@@ -18,3 +18,13 @@ G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.csproj
 G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.dll
 G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.pdb
 G:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.csprojAssemblyReference.cache
+J:\Archive\Programmata\GitHub\YAORM\DataInterface\bin\Debug\DataInterface.xml
+J:\Archive\Programmata\GitHub\YAORM\DataInterface\bin\Debug\DataInterface.dll
+J:\Archive\Programmata\GitHub\YAORM\DataInterface\bin\Debug\DataInterface.pdb
+J:\Archive\Programmata\GitHub\YAORM\DataInterface\bin\Debug\Newtonsoft.Json.dll
+J:\Archive\Programmata\GitHub\YAORM\DataInterface\bin\Debug\Newtonsoft.Json.xml
+J:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.csproj.CoreCompileInputs.cache
+J:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.csproj.CopyComplete
+J:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.dll
+J:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.pdb
+J:\Archive\Programmata\GitHub\YAORM\DataInterface\obj\Debug\DataInterface.csprojAssemblyReference.cache

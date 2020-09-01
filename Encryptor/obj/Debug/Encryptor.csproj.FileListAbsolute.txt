@@ -10,3 +10,9 @@ G:\Archive\Programmata\GitHub\YAORM\Encryptor\obj\Debug\Encryptor.csproj.CoreCom
 G:\Archive\Programmata\GitHub\YAORM\Encryptor\obj\Debug\Encryptor.dll
 G:\Archive\Programmata\GitHub\YAORM\Encryptor\obj\Debug\Encryptor.pdb
 G:\Archive\Programmata\GitHub\YAORM\Encryptor\obj\Debug\Encryptor.csprojAssemblyReference.cache
+J:\Archive\Programmata\GitHub\YAORM\Encryptor\bin\Debug\Encryptor.dll
+J:\Archive\Programmata\GitHub\YAORM\Encryptor\bin\Debug\Encryptor.pdb
+J:\Archive\Programmata\GitHub\YAORM\Encryptor\obj\Debug\Encryptor.csproj.CoreCompileInputs.cache
+J:\Archive\Programmata\GitHub\YAORM\Encryptor\obj\Debug\Encryptor.dll
+J:\Archive\Programmata\GitHub\YAORM\Encryptor\obj\Debug\Encryptor.pdb
+J:\Archive\Programmata\GitHub\YAORM\Encryptor\obj\Debug\Encryptor.csprojAssemblyReference.cache
